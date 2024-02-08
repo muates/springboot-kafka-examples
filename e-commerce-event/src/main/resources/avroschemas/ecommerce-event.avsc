@@ -1,0 +1,12 @@
+{
+  "type": "record",
+  "name": "EcommerceEvent",
+  "fields": [
+    {"name": "eventId", "type": "string"},
+    {"name": "eventType", "type": "string"},
+    {"name": "timestamp", "type": "long"},
+    {"name": "productId", "type": "string"},
+    {"name": "productName", "type": "string"},
+    {"name": "userId", "type": "string"}
+  ]
+}
