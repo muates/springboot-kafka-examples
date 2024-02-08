@@ -1,6 +1,6 @@
-package com.muates.config;
+package com.muates.e.commerce.event.config;
 
-import com.muates.config.data.KafkaConfigData;
+import com.muates.e.commerce.event.config.data.KafkaConfigData;
 import org.apache.kafka.clients.CommonClientConfigs;
 import org.apache.kafka.clients.admin.AdminClient;
 import org.apache.kafka.clients.admin.NewTopic;

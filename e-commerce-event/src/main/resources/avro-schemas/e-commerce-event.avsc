@@ -1,4 +1,5 @@
 {
+  "namespace": "com.muates.e.commerce.event.model.avro",
   "type": "record",
   "name": "EcommerceEvent",
   "fields": [

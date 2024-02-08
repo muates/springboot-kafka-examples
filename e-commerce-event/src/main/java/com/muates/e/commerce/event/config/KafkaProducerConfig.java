@@ -1,7 +1,7 @@
-package com.muates.config;
+package com.muates.e.commerce.event.config;
 
-import com.muates.config.data.KafkaConfigData;
-import com.muates.config.data.KafkaProducerConfigData;
+import com.muates.e.commerce.event.config.data.KafkaConfigData;
+import com.muates.e.commerce.event.config.data.KafkaProducerConfigData;
 import org.apache.avro.specific.SpecificRecordBase;
 import org.apache.kafka.clients.producer.ProducerConfig;
 import org.springframework.context.annotation.Bean;

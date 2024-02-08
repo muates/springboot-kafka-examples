@@ -1,4 +1,4 @@
-package com.muates.config.data;
+package com.muates.e.commerce.event.config.data;
 
 import lombok.Data;
 import org.springframework.boot.context.properties.ConfigurationProperties;
