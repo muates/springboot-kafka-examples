@@ -1,7 +1,7 @@
 {
   "namespace": "com.muates.e.commerce.event.model.avro",
   "type": "record",
-  "name": "EcommerceEvent",
+  "name": "ECommerceEvent",
   "fields": [
     {"name": "eventId", "type": "string"},
     {"name": "eventType", "type": "string"},
