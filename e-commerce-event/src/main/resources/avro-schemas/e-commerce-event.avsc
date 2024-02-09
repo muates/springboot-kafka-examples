@@ -1,13 +1,13 @@
 {
   "namespace": "com.muates.e.commerce.event.model.avro",
   "type": "record",
-  "name": "ECommerceEvent",
+  "name": "ECommerceEventAvroModel",
   "fields": [
     {"name": "eventId", "type": "string"},
     {"name": "eventType", "type": "string"},
     {"name": "timestamp", "type": "long"},
     {"name": "productId", "type": "string"},
     {"name": "productName", "type": "string"},
-    {"name": "userId", "type": "string"}
+    {"name": "userId", "type": "long"}
   ]
 }
